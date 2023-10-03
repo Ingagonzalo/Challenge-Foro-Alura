@@ -26,6 +26,7 @@
   * roles: ADMIN, USER, VIEWER
 
 <img src="./images/courseController.png">
+
 * Tópicos
   * vinculada al usuario que la crea y a la categoría que pertenece
   * registro de fecha de creación y de última actualización
